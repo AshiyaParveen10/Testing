@@ -1,4 +1,4 @@
-[Sysdig Secure](https://www.sysdig.com/products/platform){target="_blank"} is an AI-powered Application Security Platform that helps organizations:
+[Sysdig Secure](https://www.sysdig.com/products/platform){target=`_blank`} is an AI-powered Application Security Platform that helps organizations:
 testing now
 * Identify and prioritize real risks
 * Detect, investigate, and respond to real-time threats
